@@ -20,6 +20,11 @@
         align-items: center;
     }
 
+    #page-search-result .cards{
+        grid-template-columns: 1fr;
+
+    }
+
     
 }
 
