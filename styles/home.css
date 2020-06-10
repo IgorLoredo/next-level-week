@@ -37,7 +37,7 @@
 #page-home header a span {
     margin-right: 16px;
     display: flex;
-    background-image: url('/assets/log-in.svg');
+    background-image: url('../../aula1/assets/log-in.svg');
     width: 200x;
     height: 20px;
 }
@@ -106,7 +106,7 @@
 
 #page-home main a span::after{
     content: "";
-    background: url('/assets/search.svg');
+    background: url('../assets/search.svg');
     width: 20px;
     height: 20px;
 }
